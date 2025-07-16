@@ -24,7 +24,7 @@
 ---
 
 ## 📄 Resume
-[Download My CV (PDF)]()
+[Download My CV (PDF)](https://github.com/leprincenyinyi/resume-cv/blob/main/CV%20Ghamenyinyi%20IT%20Support.pdf)
 
 ## 🔗 Connect with Me
-[LinkedIn] www.linkedin.com/in/ghamenyinyi
+[LinkedIn](https://www.linkedin.com/in/ghamenyinyi/)
