@@ -24,7 +24,7 @@
 ---
 
 ## 📄 Resume
-[Download My CV (PDF)](link)
+[Download My CV (PDF)]()
 
 ## 🔗 Connect with Me
 [LinkedIn] www.linkedin.com/in/ghamenyinyi
