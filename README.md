@@ -14,7 +14,7 @@
 - [Slow PC Performance](troubleshooting/slow-pc.md)
 - [Wi-Fi Connection Issues](troubleshooting/wifi-issues.md)
 - [Printer Not Detected](troubleshooting/printer-not-detected.md)
-- [User Password Reset](troubleshooting/password-reset.md)
+- [User Password Reset](https://github.com/leprincenyinyi/it-support-troubleshooting/blob/main/password-reset)
 - [Windows Updates Failing](troubleshooting/windows-update-fails.md)
 
 
