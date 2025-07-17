@@ -10,9 +10,13 @@
 
 ## 🛠️ My Portfolio
 ### 🖥️ Troubleshooting Writeups
-- [Wi-Fi Connection Issues (PDF)](link)
-- [Windows Update Fails (PDF)](link)
-- [Slow PC Troubleshooting (PDF)](link)
+# 🛠️ IT Support Troubleshooting Examples
+- [Slow PC Performance](troubleshooting/slow-pc.md)
+- [Wi-Fi Connection Issues](troubleshooting/wifi-issues.md)
+- [Printer Not Detected](troubleshooting/printer-not-detected.md)
+- [User Password Reset](troubleshooting/password-reset.md)
+- [Windows Updates Failing](troubleshooting/windows-update-fails.md)
+
 
 ### 🎟️ Ticketing Systems Practice
 - Spiceworks screenshots: [Ticket Examples (PDF)](link)
